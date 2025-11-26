@@ -1,2 +1,4 @@
 client_app/*
 server_app/server
+.vscode/
+**/.DS_Store
